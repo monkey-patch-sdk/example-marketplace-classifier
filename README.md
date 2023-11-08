@@ -33,7 +33,7 @@ Long Description: None
     
 
 Generated output:
-```
+```python
 {
     'category': 'Music & Audio', 
     'brand': 'unknown', 
@@ -64,7 +64,7 @@ Original input:
     
 
 Generated output:
-```
+```python
 {
     'category': 'Electronics', 
     'brand': 'Geek Squad', 
@@ -91,7 +91,7 @@ Generated output:
     
 
 Generated output:
-```
+```python
 {
     'category': 'Home Goods', 
     'brand': 'Linon Home Décor', 
@@ -116,7 +116,7 @@ Generated output:
     
 
 Generated output:
-```
+```python
 {
     'category': 'Electronics', 
     'brand': 'Razer', 
